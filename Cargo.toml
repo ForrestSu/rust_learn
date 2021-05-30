@@ -3,4 +3,6 @@
 members = [
   # demo
   "hello-world",
+  # lib
+  "libhello"
 ]
