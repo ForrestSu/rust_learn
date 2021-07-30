@@ -7,6 +7,7 @@ members = [
   "ch03_guess_game",
   "ch05_collection",
   "ch07_oo",
+  "ch08_closure",
   "hello-world",
   "libhello",
 ]
