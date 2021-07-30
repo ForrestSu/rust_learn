@@ -5,6 +5,8 @@ members = [
   "ch01",
   "ch02_loop",
   "ch03_guess_game",
+  "ch05_collection",
+  "ch07_oo",
   "hello-world",
   "libhello",
 ]
