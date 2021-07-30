@@ -1,5 +1,4 @@
 #[derive(Debug)]
-
 struct Site {
     domain: String,
     name: String,
@@ -7,7 +6,8 @@ struct Site {
     found: u32,
 }
 
-fn main() {
+#[test]
+fn string_test() {
     let site = Site {
         domain: String::from("www.runoob.com"),
         name: String::from("RUNOOB"),

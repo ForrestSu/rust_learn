@@ -1,8 +1,9 @@
 [workspace]
 
 members = [
-  # demo
-  "hello-world",
   # lib
-  "libhello"
+  "ch01",
+  "ch02_loop",
+  "hello-world",
+  "libhello",
 ]
