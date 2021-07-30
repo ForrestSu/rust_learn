@@ -4,6 +4,7 @@ members = [
   # lib
   "ch01",
   "ch02_loop",
+  "ch03_guess_game",
   "hello-world",
   "libhello",
 ]
