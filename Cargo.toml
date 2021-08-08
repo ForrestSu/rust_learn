@@ -8,7 +8,7 @@ members = [
   "ch05_collection",
   "ch07_oo",
   "ch08_closure",
-  "ch10_bench",
+  # "ch10_bench",
   "hello-world",
   "libhello",
   "advance01_serde",
